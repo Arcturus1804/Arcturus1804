@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arcturus1804
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on whatever can help mne learn
+- 💞️ I’m looking to collaborate on whatever can help me learn
 - 📫 How to reach me discord id:Arcturus#5769
 
 <!---
